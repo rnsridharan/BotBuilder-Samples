@@ -39,7 +39,7 @@
     },
     "Project": {
       "type": "string",
-      "defaultValue": "Node/blog-customChannelData"
+      "defaultValue": "Node/blog-LUISActionBinding"
     },
     "WEBSITE_NODE_DEFAULT_VERSION": {
       "type": "string",
